@@ -5,7 +5,7 @@
 /************************* WiFi Access Point **********************************/ 
 #define WLAN_SSID       "[SSID]" 
 #define WLAN_PASS       "[Wi-Fi password]" 
-#define MQTT_SERVER     "[IP adress]" // static ip address
+#define MQTT_SERVER     "[Host IP adress]" // static ip address
 #define MQTT_PORT       1883                    
 #define MQTT_USERNAME   "" 
 #define MQTT_PASSWORD   "" 
